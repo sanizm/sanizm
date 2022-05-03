@@ -1,7 +1,7 @@
 Hi 👋 My name is Saniz
 ======================
 
-Full Stack Developer
+Future Full Stack Developer
 --------------------
 
 I've been learning to code for the last 2 years since I joined York University in Jan 2020. I began learning to code in HTML, CSS, JS then as I progressed I learned different programming languages like JAVA, C, Fortran, and Assembly. I grew more interest in Full stack development while learning nodeJS and react.
